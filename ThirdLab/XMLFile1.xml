@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CuteCatsDataBase>
+	<cat ID = "1"
+		 NAME = "Honney"
+		 SEX = "Male"
+		 BREED = "Bengal cat"
+		 AGE = "1 year"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "2"
+		 NAME = "Sam"
+		 SEX = "Male"
+		 BREED = "Scottish Fold"
+		 AGE = "2 month"
+	     VACCINATIONS = "no">
+	</cat>
+	<cat ID = "3"
+		 NAME = "Timmy"
+		 SEX = "Female"
+		 BREED = "American Bobtail"
+		 AGE = "6 years"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "4"
+		 NAME = "Bolaska"
+		 SEX = "Female"
+		 BREED = "Turkish Van"
+		 AGE = "3 years"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "5"
+		 NAME = "Niory"
+		 SEX = "Female"
+		 BREED = "Peterbald"
+		 AGE = "10 month"
+	     VACCINATIONS = "no">
+	</cat>
+	<cat ID = "6"
+		 NAME = "Coley"
+		 SEX = "Male"
+		 BREED = "Snowshoe Cat"
+		 AGE = "4 years"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "7"
+		 NAME = "Bear"
+		 SEX = "Male"
+		 BREED = "Ragdoll"
+		 AGE = "13 years"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "8"
+		 NAME = "Miiya"
+		 SEX = "Female"
+		 BREED = "Munchkin Cat"
+		 AGE = "3 years"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "9"
+		 NAME = "Kay"
+		 SEX = "Male"
+		 BREED = "Savannah cat"
+		 AGE = "4 years"
+	     VACCINATIONS = "no">
+	</cat>
+	<cat ID = "10"
+		 NAME = "Dubby"
+		 SEX = "Male"
+		 BREED = "American Wirehair"
+		 AGE = "8 month"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "11"
+		 NAME = "Candy"
+		 SEX = "Female"
+		 BREED = "Himalayan cat"
+		 AGE = "1 year"
+	     VACCINATIONS = "yes">
+	</cat>
+	<cat ID = "12"
+		 NAME = "Alex"
+		 SEX = "Male"
+		 BREED = "Japanese Bobtail"
+		 AGE = "9 years"
+	     VACCINATIONS = "no">
+	</cat>
+</CuteCatsDataBase>
+		 
